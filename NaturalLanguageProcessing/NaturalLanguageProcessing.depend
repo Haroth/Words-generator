@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534087189 source:d:\programy\naturallanguageprocessing\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
